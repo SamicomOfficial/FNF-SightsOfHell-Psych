@@ -1,0 +1,45 @@
+{
+	"storyName": "Sights Of hell",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Shambles",
+			"mouse-1",
+			[
+				86,
+				93,
+				153
+			]
+		],
+		[
+			"Regression",
+			"mouse-2",
+			[
+				66,
+				73,
+				133
+			]
+		],
+		[
+			"Sights Of Hell",
+			"mouse-3",
+			[
+				26,
+				33,
+				93
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "SoH"
+}
