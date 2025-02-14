@@ -1,8 +1,27 @@
 {
+	"camera_boyfriend": [
+		0,
+		-200
+	],
+	"_editorMeta": {
+		"boyfriend": "bf-dog",
+		"gf": "gf-dog",
+		"dad": "mouse-1"
+	},
+	"girlfriend": [
+		820,
+		50
+	],
+	"stageUI": "normal",
+	"boyfriend": [
+		1330,
+		140
+	],
+	"defaultZoom": 0.45,
 	"objects": [
 		{
-			"x": -1722,
-			"y": -1260,
+			"x": -1482,
+			"y": -700,
 			"scale": [
 				1,
 				1
@@ -32,38 +51,19 @@
 			"type": "boyfriend"
 		}
 	],
-	"camera_opponent": [
-		0,
-		-150
-	],
-	"girlfriend": [
-		440,
-		90
-	],
-	"_editorMeta": {
-		"boyfriend": "bf-dog",
-		"gf": "gf-dog",
-		"dad": "mouse-1"
-	},
 	"camera_girlfriend": [
 		200,
-		0
-	],
-	"boyfriend": [
-		850,
-		140
+		-150
 	],
 	"opponent": [
-		0,
+		340,
 		160
 	],
-	"hide_girlfriend": false,
 	"directory": "",
 	"camera_speed": 1,
-	"defaultZoom": 0.5,
-	"stageUI": "normal",
-	"camera_boyfriend": [
+	"hide_girlfriend": false,
+	"camera_opponent": [
 		0,
-		-100
+		-250
 	]
 }

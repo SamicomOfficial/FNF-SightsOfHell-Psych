@@ -1,79 +1,54 @@
 {
 	"animations": [
 		{
-			"offsets": [
-				0,
-				0
-			],
 			"loop": false,
-			"fps": 24,
+			"offsets": [0, 0],
 			"anim": "idle",
-			"indices": [],
-			"name": "Idle"
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
 		},
 		{
-			"offsets": [
-				20,
-				17
-			],
 			"loop": false,
-			"fps": 24,
+			"offsets": [46, -12],
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "Left"
+			"fps": 24,
+			"name": "Left",
+			"indices": []
 		},
 		{
-			"offsets": [
-				-2,
-				-101
-			],
 			"loop": false,
-			"fps": 24,
+			"offsets": [-62, -95],
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "Down"
+			"fps": 24,
+			"name": "Down",
+			"indices": []
 		},
 		{
-			"offsets": [
-				-70,
-				26
-			],
 			"loop": false,
-			"fps": 24,
+			"offsets": [-29, 35],
 			"anim": "singUP",
-			"indices": [],
-			"name": "Up"
+			"fps": 24,
+			"name": "Up",
+			"indices": []
 		},
 		{
-			"offsets": [
-				-100,
-				-30
-			],
 			"loop": false,
-			"fps": 24,
+			"offsets": [-110, -20],
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "Right"
+			"fps": 24,
+			"name": "Right",
+			"indices": []
 		}
 	],
 	"vocals_file": "",
 	"no_antialiasing": false,
-	"image": "characters/Mouse_1",
-	"position": [
-		-50,
-		110
-	],
+	"image": "characters/Mouse_1_Remake",
+	"position": [-50, 110],
 	"healthicon": "mouse-1",
 	"flip_x": false,
-	"healthbar_colors": [
-		79,
-		88,
-		119
-	],
-	"camera_position": [
-		0,
-		130
-	],
+	"healthbar_colors": [79, 88, 119],
+	"camera_position": [0, 130],
 	"sing_duration": 4,
 	"scale": 1,
 	"_editor_isPlayer": false
