@@ -1,23 +1,23 @@
 {
 	"camera_boyfriend": [
 		0,
-		-200
+		0
 	],
 	"_editorMeta": {
 		"boyfriend": "bf-dog",
-		"gf": "gf-dog",
-		"dad": "mouse-1"
+		"dad": "mouse-1",
+		"gf": "gf-dog"
 	},
+	"boyfriend": [
+		1330,
+		140
+	],
 	"girlfriend": [
 		820,
 		50
 	],
 	"stageUI": "normal",
-	"boyfriend": [
-		1330,
-		140
-	],
-	"defaultZoom": 0.45,
+	"defaultZoom": 0.9,
 	"objects": [
 		{
 			"x": -1482,
@@ -53,17 +53,17 @@
 	],
 	"camera_girlfriend": [
 		200,
-		-150
+		100
 	],
+	"camera_speed": 1,
+	"directory": "",
 	"opponent": [
 		340,
 		160
 	],
-	"directory": "",
-	"camera_speed": 1,
-	"hide_girlfriend": false,
 	"camera_opponent": [
 		0,
-		-250
-	]
+		-50
+	],
+	"hide_girlfriend": false
 }

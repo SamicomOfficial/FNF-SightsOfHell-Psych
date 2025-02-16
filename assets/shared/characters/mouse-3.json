@@ -1,0 +1,55 @@
+{
+	"animations": [
+		{
+			"offsets": [163, -22],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Left"
+		},
+		{
+			"offsets": [0, -135],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Down"
+		},
+		{
+			"offsets": [0, 100],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Up"
+		},
+		{
+			"offsets": [-20, -30],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Right"
+		},
+		{
+			"offsets": [20, -40],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "Idle"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/Mouse_3_Remake",
+	"position": [-40, 150],
+	"healthicon": "mouse-3",
+	"flip_x": false,
+	"healthbar_colors": [53, 58, 79],
+	"camera_position": [0, 100],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

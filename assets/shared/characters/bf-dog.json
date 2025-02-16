@@ -1,123 +1,62 @@
 {
 	"animations": [
 		{
+			"offsets": [-5, 0],
 			"loop": false,
-			"offsets": [
-				-5,
-				0
-			],
+			"fps": 24,
 			"anim": "idle",
-			"fps": 24,
-			"name": "Idle",
-			"indices": []
+			"indices": [],
+			"name": "Idle"
 		},
 		{
+			"offsets": [15, -1],
 			"loop": false,
-			"offsets": [
-				-2,
-				8
-			],
+			"fps": 24,
 			"anim": "singLEFT",
-			"fps": 24,
-			"name": "Left",
-			"indices": []
+			"indices": [],
+			"name": "Left"
 		},
 		{
+			"offsets": [30, -51],
 			"loop": false,
-			"offsets": [
-				70,
-				-51
-			],
+			"fps": 24,
 			"anim": "singDOWN",
-			"fps": 24,
-			"name": "Down",
-			"indices": []
+			"indices": [],
+			"name": "Down"
 		},
 		{
+			"offsets": [1, 86],
 			"loop": false,
-			"offsets": [
-				-16,
-				14
-			],
+			"fps": 24,
 			"anim": "singUP",
-			"fps": 24,
-			"name": "Up",
-			"indices": []
+			"indices": [],
+			"name": "Up"
 		},
 		{
+			"offsets": [-51, 4],
 			"loop": false,
-			"offsets": [
-				-78,
-				13
-			],
+			"fps": 24,
 			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "Right",
-			"indices": []
+			"indices": [],
+			"name": "Right"
 		},
 		{
-			"loop": false,
-			"offsets": [
-				7,
-				9
-			],
-			"anim": "singLEFTmiss",
+			"offsets": [39, 0],
+			"indices": [],
 			"fps": 24,
-			"name": "Fail Left",
-			"indices": []
-		},
-		{
+			"anim": "hey",
 			"loop": false,
-			"offsets": [
-				75,
-				-59
-			],
-			"anim": "singDOWNmiss",
-			"fps": 24,
-			"name": "Fail Down",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-6,
-				17
-			],
-			"anim": "singUPmiss",
-			"fps": 24,
-			"name": "Fail Up",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-64,
-				22
-			],
-			"anim": "singRIGHTmiss",
-			"fps": 24,
-			"name": "Fail Right",
-			"indices": []
+			"name": "Cheer"
 		}
 	],
 	"vocals_file": "",
 	"no_antialiasing": false,
-	"image": "characters/BF_DOG",
-	"position": [
-		-20,
-		240
-	],
+	"image": "characters/BF_DOG_REMAKE",
+	"position": [20, 260],
 	"healthicon": "bf-dog",
 	"flip_x": true,
-	"healthbar_colors": [
-		73,
-		81,
-		150
-	],
-	"camera_position": [
-		0,
-		0
-	],
+	"healthbar_colors": [73, 81, 150],
+	"camera_position": [0, 0],
 	"sing_duration": 4,
 	"scale": 1,
 	"_editor_isPlayer": true
